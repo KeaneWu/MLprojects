@@ -13,7 +13,7 @@ Description: <br />
            4. fit with Logistic Regression, Random Forest, Gradient Boost Trees models, and Neural Network.<br />
            5. the Gradient Boost Tress got the highest AUC score which is 0.85.<br />
            
-## Project 1: 
+## Project 1: Yelp data analysis (Yelp_Dataset_-_Data_Preprocessing, Yelp_Dataset_-_NLP)
 ### Project Objective: To predict the rating
 #### Process: review preprocessing and modeling.<br />
 Data info: <br />
